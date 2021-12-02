@@ -236,6 +236,7 @@ void sha256_double_hash_hex(const char *input, char *output, unsigned int len);
 #include "algos/bmw512.h"
 #include "algos/x25x.h"
 #include "algos/minotaur.h"
+#include "algos/minotaurx.h"
 #include "algos/curvehash.h"
 #include "algos/x11k.h"
 #include "algos/megabtx.h"
